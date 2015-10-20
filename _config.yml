@@ -1,6 +1,6 @@
-name: null
+name: Hotlink
 favicon: null
-layout_spectrum: 0.0045095342211425304
+layout_spectrum: 1
 typography_spectrum: 0.4732920222450048
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.4730345483403653
+  brandStrength: 1
   lightness: 0.4214323421474546
   saturation: 0.6723166001029313
   rhythmicContrast: 0.17823296133428812
